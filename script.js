@@ -1,5 +1,5 @@
 // タイピング目標の文字列
-const targetStrings = ["mannkosekkusuonani-", "mannko"];
+const targetStrings = ["mannkosekkusuonani", "mannko"];
 
 // 各要素を取得
 const targetElements = [document.getElementById('target1'), document.getElementById('target2')];
